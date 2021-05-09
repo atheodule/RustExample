@@ -1,3 +1,4 @@
+
 # RustExample
 
 This repo is mainly a test on using Rust and QEMU.
@@ -17,3 +18,5 @@ After downloading and installing everything you will be able to run this project
 Future Improvments:
 I would love to convert a previous project written in C to Rust.
 I would also love to emulate an stm32 board and run that project on it.
+
+![screenshot](https://user-images.githubusercontent.com/23161216/117573796-e0a70000-b0a7-11eb-854f-50b284b456ae.JPG)
